@@ -1,3 +1,4 @@
+
 -- 01_basics/select_basics.sql
 -- Learning: SELECT, FROM, LIMIT
 -- Date: 2026-02-19
