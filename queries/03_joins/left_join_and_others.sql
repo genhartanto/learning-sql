@@ -88,3 +88,23 @@ FROM actor a
 LEFT JOIN film_actor fa ON a.actor_id = fa.actor_id
 GROUP BY a.actor_id, a.first_name, a.last_name
 ORDER BY film_count DESC;
+
+-- For each rating (G, PG, R, etc.), show:
+-- - Number of films
+-- - Average rental rate
+-- - Total potential revenue (sum of all rental rates)
+-- Only show ratings with more than 150 films
+
+
+
+-- Find customers who rented films in February 2005
+-- Show: customer name, number of rentals, total amount paid
+-- Order by total amount paid (highest first)
+
+
+-- Which store (store 1 or store 2) generated more revenue?
+
+
+-- Find films that exist in inventory but have never been rented
+
+-- For each film rating, show the top 3 most expensive films
