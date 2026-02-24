@@ -22,11 +22,11 @@ A hands-on exploration of SQL concepts using PostgreSQL, documenting my progress
 - Understanding DISTINCT and LIMIT
 - File: [`queries/01_basics/select_basics.sql`](queries/01_basics/select_basics.sql)
 
-### Phase 2: Aggregations (In Progress)
+### Phase 2: Aggregations
 - GROUP BY, COUNT, SUM, AVG, MIN, MAX
 - HAVING clause for filtered aggregations
 
-### Phase 3: JOINs (Upcoming)
+### Phase 3: JOINs (In progress)
 - INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL OUTER JOIN
 - Multi-table analysis and relationship mapping
 
