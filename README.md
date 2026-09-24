@@ -20,7 +20,6 @@ A hands-on exploration of SQL concepts using PostgreSQL, documenting my progress
 ### Phase 1: SELECT Basics ✅
 - Core SELECT statements, filtering, and sorting
 - Understanding DISTINCT and LIMIT
-- File: [`queries/01_basics/select_basics.sql`](queries/01_basics/select_basics.sql)
 
 ### Phase 2: Aggregations
 - GROUP BY, COUNT, SUM, AVG, MIN, MAX
